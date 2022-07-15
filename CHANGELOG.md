@@ -1,5 +1,7 @@
 # Changelog
 
+## 2.0.0 (2022-07-15)
+
 ## [1.1.0](https://github.com/andrea689/test/compare/v1.0.0...v1.1.0) (2022-07-15)
 
 
