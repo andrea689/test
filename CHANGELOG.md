@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.0](https://github.com/andrea689/test/compare/v1.0.0...v1.1.0) (2022-07-15)
+
+
+### Features
+
+* update test file ([9231698](https://github.com/andrea689/test/commit/9231698a19ede62f50aba7a549a01f61512bef67))
+* update test file ([fb31866](https://github.com/andrea689/test/commit/fb318669ecbb22663d493b310527b7bb9e6e886d))
+* update test file ([ea877de](https://github.com/andrea689/test/commit/ea877de0896921511711ebfb3ca15952198527c4))
+* update test file 5 ([0558995](https://github.com/andrea689/test/commit/05589950d1064ec72df22262460e92ee89a7665e))
+
 ## 1.0.0 (2022-07-15)
 
 
