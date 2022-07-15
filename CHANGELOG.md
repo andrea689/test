@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.2.0](https://github.com/andrea689/test/compare/v1.1.0...v1.2.0) (2022-07-15)
+
+
+### Features
+
+* uffa ([1057f3d](https://github.com/andrea689/test/commit/1057f3db00fa8d841ff635975a149b654330f6e0))
+
+
+### Bug Fixes
+
+* start version ([785ff08](https://github.com/andrea689/test/commit/785ff08f2ab787f4ac088dd855e3d8c74696b81d))
+* update test file 6 ([00eb2e8](https://github.com/andrea689/test/commit/00eb2e804f15afb80fa4943156954fe260689edc))
+* update test file 7 ([37a1b3a](https://github.com/andrea689/test/commit/37a1b3a6bde4a98073518537b99e5ca723c6e398))
+* update test file 9 ([3519e60](https://github.com/andrea689/test/commit/3519e60125e3ffd7e7c7f8e00f5f956f234ce461))
+
 ## 2.0.0 (2022-07-15)
 
 ## [1.1.0](https://github.com/andrea689/test/compare/v1.0.0...v1.1.0) (2022-07-15)
