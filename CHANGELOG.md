@@ -1,5 +1,13 @@
 # Changelog
 
+### [3.1.1](https://www.github.com/andrea689/test/compare/v3.1.0...v3.1.1) (2022-07-15)
+
+
+### Bug Fixes
+
+* downgrade to v2 ([c736ed7](https://www.github.com/andrea689/test/commit/c736ed79a465050bba634737db1835f454a95283))
+* update test file 9 ([3519e60](https://www.github.com/andrea689/test/commit/3519e60125e3ffd7e7c7f8e00f5f956f234ce461))
+
 ## 2.0.0 (2022-07-15)
 
 ## [1.1.0](https://github.com/andrea689/test/compare/v1.0.0...v1.1.0) (2022-07-15)
